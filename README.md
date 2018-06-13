@@ -12,6 +12,8 @@
 * Zespół
 * Kontakt
 
+[screenshot_20180604-232747](30772088_1489244587854601_274843471_o.png)
+
 Problem
 =========
 Wybór lepszego zdjęcia spośród dwóch zajmuje dużo czasu. Nie zawsze jesteśmy pewni czy wybrane zdjęcie jest na pewno lepsze. Nie wiemy czy spodoba się ono innym.
